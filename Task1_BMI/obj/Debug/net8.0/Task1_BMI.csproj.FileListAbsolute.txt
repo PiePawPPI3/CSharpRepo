@@ -1,0 +1,15 @@
+C:\Users\ppielka\CSharpRepo\Task1_BMI\bin\Debug\net8.0\Task1_BMI.exe
+C:\Users\ppielka\CSharpRepo\Task1_BMI\bin\Debug\net8.0\Task1_BMI.deps.json
+C:\Users\ppielka\CSharpRepo\Task1_BMI\bin\Debug\net8.0\Task1_BMI.runtimeconfig.json
+C:\Users\ppielka\CSharpRepo\Task1_BMI\bin\Debug\net8.0\Task1_BMI.dll
+C:\Users\ppielka\CSharpRepo\Task1_BMI\bin\Debug\net8.0\Task1_BMI.pdb
+C:\Users\ppielka\CSharpRepo\Task1_BMI\obj\Debug\net8.0\Task1_BMI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ppielka\CSharpRepo\Task1_BMI\obj\Debug\net8.0\Task1_BMI.AssemblyInfoInputs.cache
+C:\Users\ppielka\CSharpRepo\Task1_BMI\obj\Debug\net8.0\Task1_BMI.AssemblyInfo.cs
+C:\Users\ppielka\CSharpRepo\Task1_BMI\obj\Debug\net8.0\Task1_BMI.csproj.CoreCompileInputs.cache
+C:\Users\ppielka\CSharpRepo\Task1_BMI\obj\Debug\net8.0\Task1_BMI.sourcelink.json
+C:\Users\ppielka\CSharpRepo\Task1_BMI\obj\Debug\net8.0\Task1_BMI.dll
+C:\Users\ppielka\CSharpRepo\Task1_BMI\obj\Debug\net8.0\refint\Task1_BMI.dll
+C:\Users\ppielka\CSharpRepo\Task1_BMI\obj\Debug\net8.0\Task1_BMI.pdb
+C:\Users\ppielka\CSharpRepo\Task1_BMI\obj\Debug\net8.0\Task1_BMI.genruntimeconfig.cache
+C:\Users\ppielka\CSharpRepo\Task1_BMI\obj\Debug\net8.0\ref\Task1_BMI.dll
